@@ -44,7 +44,7 @@ alias jdk8="export JAVA_HOME=$JAVA_8_HOME"
 alias jdk15="export JAVA_HOME=$JAVA_15_HOME"
 
 # 将JAVA_HOME写入PATH路径中（也就是配置环境变量）
-export PATH=$PATH:$JAVA_HOME/bin:$$GRADLE_HOME/bin
+export PATH=$PATH:$JAVA_HOME/bin:$GRADLE_HOME/bin
 ~~~
 
 配置完毕后，记得按下command + S保存
