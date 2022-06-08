@@ -52,7 +52,7 @@ export PATH=$PATH:$JAVA_HOME/bin:$$GRADLE_HOME/bin
 然后回到命令行输入
 
 ~~~ shell
-source ~/.bash_profile
+source .bash_profile
 ~~~
 
 使得该配置生效
